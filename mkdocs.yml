@@ -1,2 +1,10 @@
-site_name: My Docs
+site_name: Star Saga Documentation
 dev_addr: '127.0.0.1:8080'
+
+nav:
+  - Novels: novels.md
+  - Short Stories: short_stories.md
+  - Technical Manuals: tech_manuals.md
+
+
+theme: readthedocs
