@@ -1,6 +1,4 @@
-# Star Saga Documentation
-
-## STARSTRIKERS ERA
+# STARSTRIKERS ERA
 
 
 + **Trader Tales Vol 1** (anthology) *The adventures of Joules Rouse.*

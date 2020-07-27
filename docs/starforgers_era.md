@@ -1,6 +1,4 @@
-# Star Saga Documentation
-
-## [STARFORGERS ERA](starforgers_era.md)
+# [STARFORGERS ERA](starforgers_era.md)
 
 + **Starship Series Books 1-9** (novellas) *Armon Vance's career before the Great War.*
 + **Tales From Ocherva Vol 1** (anthology) *Devon Ardel's Stellar Ranger career.*
@@ -9,3 +7,5 @@
 + **The Rising Book II** (novel)
  	- **The Blood Empress** (novella)
 + **Counterattack Book III** (novel)
+
+<img src="../MugWrapAroundCovers_vol1_blue_60.png" />

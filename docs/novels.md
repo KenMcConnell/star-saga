@@ -1,5 +1,5 @@
 # The STAR SAGA
-There are three main trilogies in the saga.
+There are three main trilogies or eras in the saga separated by five hundred years. Each trilogy has a new cast of characters; set before, in the middle of, and at the conclusion of the Great War between the Votainion Empire and Western Alliance.
 
 
 ## [STARFORGERS ERA](starforgers_era.md)
