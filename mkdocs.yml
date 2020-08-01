@@ -1,10 +1,9 @@
-site_name: Star Saga Documentation
+site_name: Star Saga Universe
 dev_addr: '127.0.0.1:8080'
 
 nav:
-  - Novels: novels.md
-  - Short Stories: short_stories.md
-  - Technical Manuals: tech_manuals.md
-
+  - Novels: 'novels.md'
+  - Short Stories: 'short_stories.md'
+  - Technical Manuals: 'tech_manuals.md'
 
 theme: readthedocs

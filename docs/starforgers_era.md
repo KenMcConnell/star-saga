@@ -1,4 +1,5 @@
-# [STARFORGERS ERA](starforgers_era.md)
+# STARFORGERS ERA
+
 
 + **Starship Series Books 1-9** (novellas) *Armon Vance's career before the Great War.*
 + **Tales From Ocherva Vol 1** (anthology) *Devon Ardel's Stellar Ranger career.*
