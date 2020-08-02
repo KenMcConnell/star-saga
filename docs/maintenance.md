@@ -6,6 +6,6 @@
 + Before starting server, or deploying build the site.
 + Start mkdocs: mkdocs Start
 +
-home302109391.1and1-data.host
+u55362473@home302109391.1and1-data.host
 FTP: u55362473  
 SFTP Port: 22
