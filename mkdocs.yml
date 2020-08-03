@@ -4,6 +4,7 @@ dev_addr: '127.0.0.1:8080'
 nav:
   - Novels: 'novels.md'
   - Short Stories: 'short_stories.md'
+  - Mis-En-Scene: 'mis_en_scene.md'
   - Technical Manuals: 'tech_manuals.md'
 
 theme: readthedocs
